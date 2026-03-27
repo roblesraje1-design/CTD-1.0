@@ -1,0 +1,5 @@
+{
+  "name": "Chill Tablet Dashboard",
+  "description": "A dark, customizable dashboard for tablets featuring a resizable widget grid, Gemini AI integration, and productivity tools.",
+  "requestFramePermissions": ["microphone"]
+}
